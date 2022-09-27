@@ -1,0 +1,3 @@
+packages:
+  - 'vue/packages/*'
+  - 'app'
